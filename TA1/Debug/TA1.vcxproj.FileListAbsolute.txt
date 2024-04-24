@@ -1,0 +1,2 @@
+C:\Users\Usuario\OneDrive\Escritorio\TA1\TA1\Debug\TA1.vcxproj.AssemblyReference.cache
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\Debug\TA1.vcxproj.AssemblyReference.cache

@@ -1,0 +1,43 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  TA1.cpp
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(59,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(64,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(69,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(79,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(83,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(87,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(97,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(101,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(123,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\ArregloTodo.h(132,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/TA1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\TA1\TA1.cpp(35,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/TA1.cpp")
+  
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TA1.vcxproj -> C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 8\TA1\Debug\TA1.exe
